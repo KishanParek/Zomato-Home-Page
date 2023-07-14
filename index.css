@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: red;
+    height: 80px;
+    width: 100%;
+
+}
+.logo{
+    background-color: white;
+    height: 51px;
+    width: 51px;
+    padding: 10px 15px 10px;
+    border-radius: 100%;
+    font-size: 33px;
+    color: red;
+    position: relative;
+    left: 112px;
+    top: 20px;
+}
+.login{
+    position: relative;
+    left: 1015px;
+    padding: 10px 15px 10px;
+    top: 20px;
+}
+.create{
+    position: relative;
+    left: 1015px;
+    border: 1px solid white;
+    padding: 10px 15px 10px;
+    top: 20px;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.layout{
+    width: 100%;
+    height: 800px;
+}
+.headline{
+    position: relative;
+    left: 113px;
+    top: 20px;
+    padding: 10px 0px 60px;
+    color: #192f60;
+}
+.filter{
+    position: relative;
+    left: 113px;    
+    width: 260px;
+    height: 682px;
+    box-shadow: 0px 3px 6px #00000029;
+}
+.filter-headline{
+    position: relative;
+    padding: 17px 0px 0px 27px;
+
+}
+.select-location{
+    position: relative;
+    padding: 10px 0px 0px 27px;
+}
